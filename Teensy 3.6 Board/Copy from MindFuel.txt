@@ -8,5 +8,10 @@ Motor LED On Off Program
 
 
 
+Note: Repositories might need to be copied to Adruino Folder in My DOCs before 
+accessing directly, then saved back
+
+
+
 To Do List
 - On off Button for Robot, quit running the code
