@@ -18,3 +18,7 @@ To Do List
 - Get more than one motor connected, use differetn TX first, the see about regular UNO Example
 - On off Button for Robot, quit running the code
 - 
+
+
+Keyword Updates
+- max and min are keywords, not variables
