@@ -15,6 +15,7 @@ accessing directly, then saved back
 
 To Do List
 - Rename all Folders and Programs to AX12A from AX12
+- How does Move work?
 - Get more than one motor connected, use differetn TX first, the see about regular UNO Example
 - On off Button for Robot, quit running the code
 - 
