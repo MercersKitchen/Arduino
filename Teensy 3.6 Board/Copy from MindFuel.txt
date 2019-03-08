@@ -23,4 +23,4 @@ To Do List
 
 Keyword Updates
 - max and min are keywords, not variables
-- setPosition( ID, Position) //Position: 0 - 1023, 512 is middle
+- ax12a.end(); //Leaves motor running when at end of void loop(){}
