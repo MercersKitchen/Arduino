@@ -116,6 +116,37 @@ See Teensy 3.6 Pinout: <a href="https://www.google.com/search?q=teensy+3.6+pinou
 # To Include
 
 Videos to Review, ordered
+- Dynamixel Controllers: https://www.youtube.com/watch?v=qIQaDdoqR20
+
+- Another Class to Play with
+  - https://www.youtube.com/watch?v=b-duKmB7qNY&feature=youtu.be
+  - https://www.youtube.com/watch?v=b-duKmB7qNY
+  - https://www.youtube.com/watch?v=rPHAlalq3QM&feature=youtu.be
+
+- Tutorial for Using Dynamixel
+  - Video #1: https://www.youtube.com/watch?v=R2yca-9yHy0
+  - Video #2: https://www.youtube.com/watch?v=ngfyaX1rLJ0
+  - Video #3: https://www.youtube.com/watch?v=-6XPTMpdsts
+  - Video #4: https://www.youtube.com/watch?v=HfdpQDyZ6i4
+  - Video #5: https://www.youtube.com/watch?v=vJGNIhoEMUY
+  - Video #6: https://www.youtube.com/watch?v=t_99P7Ug7OQ
+  - Video #7: https://www.youtube.com/watch?v=8fJ6o1qbqig
+  - Video #8: https://www.youtube.com/watch?v=LnYKcDerX9w
+  - Video #9: https://www.youtube.com/watch?v=9ZzINgb4ATM
+  - Video #10: https://www.youtube.com/watch?v=jLoBG4uKpzE&feature=youtu.be
+  - Video #11: https://www.youtube.com/watch?v=MkuXVBMKZI0
+  - Video #12: https://www.youtube.com/watch?v=MkO0e6rPuyg
+  - Additional Videos
+
+Non English Video for Ideas: https://www.youtube.com/watch?v=xC-2jlYX7js&feature=youtu.be
+
+Additional Tutorials: http://wiki.ros.org/dynamixel_controllers/Tutorials
+
+Changing Gears for the Motors: https://www.youtube.com/watch?v=W1sOavdmIus
+- Check out this Channel
+
+Motors we use
+- https://www.youtube.com/watch?v=Wu_PXUbTmxU&feature=youtu.be
 
 ---
 
