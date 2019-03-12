@@ -10,6 +10,14 @@ Using Teensy 3.6
 
 # Teensy 3.6
 
+Videos that help
+
+Basic Turning of AX12A
+- See Video: https://www.youtube.com/watch?v=JQSY8jlgW90
+- See Sketch: http://www.arduinotutorialonline.com/2018/01/using-dynamixel-ax-12a-servo-with.html
+
+
+-
 ## Hello World for Teensy 3.6
 
 Hardware Setup for Teensy 3
@@ -109,6 +117,19 @@ See Teensy 3.6 Pinout: <a href="https://www.google.com/search?q=teensy+3.6+pinou
 
 Videos to Review, ordered
 
+---
 
+## Searches to Explore
+
+Example 1:
+- See Video: https://www.youtube.com/watch?v=svD-m-NUD3I
+- See Website Instructions: https://robottini.altervista.org/dynamixel-ax-12a-and-arduino-how-to-use-the-serial-port
+
+Example 2:
+- See Video and Additional Links: https://www.youtube.com/watch?v=N1a3W_fUJ4U
+
+---
+
+Searching for Code Examples: "AX12A motor robotics filetype:ino"
 
 ---
