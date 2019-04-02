@@ -16,7 +16,7 @@ setBD           	KEYWORD2
 move             	KEYWORD2
 moveSpeed       	KEYWORD2
 setEndless      	KEYWORD2
-turn            	KEYWORD2
+turn            	KEYWORD2, needs {ID, left|right, speed}, {ID, variable}
 moveRW           	KEYWORD2
 moveSpeedRW     	KEYWORD2
 action          	KEYWORD2
@@ -38,7 +38,7 @@ lockRegister       	KEYWORD2
 RWStatus        	KEYWORD2
 readSpeed        	KEYWORD2
 readLoad            KEYWORD2
-readPosition    	KEYWORD2
+readPosition    	KEYWORD2, needs ID, returns integer
 readTemperature 	KEYWORD2
 readVoltage     	KEYWORD2	
 
