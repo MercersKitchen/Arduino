@@ -14,4 +14,14 @@ accessing directly, then saved back
 
 
 To Do List
+- Rename all Folders and Programs to AX12A from AX12
+- How does Move work?
+- How does readPosition work?
+- Get more than one motor connected, use differetn TX first, the see about regular UNO Example
 - On off Button for Robot, quit running the code
+- 
+
+
+Keyword Updates
+- max and min are keywords, not variables
+- ax12a.end(); //Leaves motor running when at end of void loop(){}
