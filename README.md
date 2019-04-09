@@ -99,9 +99,11 @@ void loop()
 Breadboarding Setup
 - Setup 12V Rails, test on DDM
 - Teensy Human Numbering (Pin#, name)
+  - Ports are right to left 1-2-3, 1-2-3 (or left to right 3-2-1, 3-2-1)
   - 1: GRD (#1) to RailGRD
-  - 3: AX Port #3, see pinout on video (https://www.youtube.com/watch?v=JQSY8jlgW90)
-    - Ports are right to left 1-2-3, 1-2-3 (or left to right 3-2-1, 3-2-1)
+  - 2: Power(#2) to battery
+  - 3: Data AX Port #3, see pinout on video (https://www.youtube.com/watch?v=JQSY8jlgW90)
+
 - AX Pin #2 to RailPositive
 - AX Pint #1 to RailGRD (note Teensy GRD and AX12 GRD connected)
 
