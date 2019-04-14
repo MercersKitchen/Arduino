@@ -18,6 +18,7 @@ void loop()
   //New Lines
   pos = ax12a.readPosition(ID);
   Serial.println(pos);
+  //To Here
   
   
   ax12a.ledStatus(ID, ON); //Motor LED, possible debugging
