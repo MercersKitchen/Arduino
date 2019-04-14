@@ -166,3 +166,7 @@ Example 2:
 Searching for Code Examples: "AX12A motor robotics filetype:ino"
 
 ---
+
+Ideas for Accessing Serial Monitor
+Serial.begin(1000000ul);
+Serial.println(pos);
